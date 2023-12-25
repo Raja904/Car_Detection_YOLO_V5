@@ -30,15 +30,17 @@ Transfer learning involves leveraging the knowledge gained by a pre-trained mode
 ### Classification Results
 
 Here are some sample results showcasing the classification of cars and jeeps:
+![val_batch0_labels](https://github.com/Raja904/Car_Detection_YOLO_V5/assets/108182700/ed0e1ded-72aa-4aed-9e30-ef12d42e87a5)
 
-![val_batch0_labels](https://github.com/Raja904/Car_Detection_YOLO_V5/assets/108182700/71345541-8edb-4bef-9c66-8b3f90890855)
 
 
 ### Training Metrics Curve
 
 The following curve illustrates the variation of key metrics over training epochs:
 
-![results](https://github.com/Raja904/Car_Detection_YOLO_V5/assets/108182700/b1aed854-b042-42cc-a7bd-30f2322f5fc6)
+
+![results](https://github.com/Raja904/Car_Detection_YOLO_V5/assets/108182700/ff239491-e11b-4190-88c2-cfcb6641052a)
+
 
 
 - **X-axis:** Training epochs
